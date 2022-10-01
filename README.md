@@ -1,18 +1,18 @@
 # Discord bots website template
 Stunning website with good UI design for the new Discord bots, built with Bootstrap and has many ready-made pages to edit by your own.
 
+# v.2
+In this version, many things have been changed on the site to make it more wonderful and easy to use.
+* You can get the old version of the site, you can find it in ``master branch``.
+
 ## main page:
 
-![Screenshot1](https://raw.githubusercontent.com/Hadi-Koubeissi/Discord-bot-website-template/master/Screenshot/1.PNG)
-
-![Screenshot2](https://raw.githubusercontent.com/Hadi-Koubeissi/Discord-bot-website-template/master/Screenshot/2.PNG)
-
-![Screenshot3](https://raw.githubusercontent.com/Hadi-Koubeissi/Discord-bot-website-template/master/Screenshot/3.PNG)
+![Screenshot1](https://raw.githubusercontent.com/Hadi-Koubeissi/Discord-bot-website-template/Main/assets/Screenshot.PNG)
 
 ## command page:
-![Screenshot4](https://raw.githubusercontent.com/Hadi-Koubeissi/Discord-bot-website-template/master/Screenshot/4.PNG)
+![Screenshot4](https://raw.githubusercontent.com/Hadi-Koubeissi/Discord-bot-website-template/Main/assets/Screen2.PNG)
 
-and more pages I couldn't Screenshot them
+and more pages...
 
 # Installing
 Download or fork the repo
